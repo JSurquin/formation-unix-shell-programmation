@@ -1,0 +1,39 @@
+# Instructions
+
+c'est un projet (formation Unix/Linux - Programmation Shell) avec slidev , vérifiez si le contenu d'une diapositive est trop long pour s'adapter confortablement sur une seule diapositive.
+Si c'est le cas, divisez le contenu en plusieurs diapositives tout en conservant toutes les informations.
+Utilisez la syntaxe Slidev Markdown (par exemple, '--- pour séparer les diapositives).
+Assurez-vous que le contenu divisé circule logiquement et ne perturbe pas le récit.
+
+ET NE SUPPRIME ABSOLUMENT RIEN de toi même !
+ne supprime aucun routeAlias non plus , ne supprime RIEN
+
+attention je précise : certains bloc de code sont tellement gros qu'il dépasse une slide complète,
+dans ce cas : divise le en plusieurs slides MAIS EN GARDANT TOUT LE CODE , NE SUPPRIME RIEN
+
+après un bloc de code, passe directement à la slide d'après
+
+# Règles de formatage pour les présentations Slidev
+
+## Structure du projet
+- Maintenir un sommaire central dans slides.md avec des liens vers les modules
+- Utiliser des routeAlias uniquement pour les slides d'introduction de modules
+- Organiser les pages dans le dossier pages/ avec une numérotation cohérente
+- Suivre la convention de nommage : XX-nom-du-module.md
+
+## Structure des modules
+- Chaque module doit avoir :
+  - Une slide d'introduction avec routeAlias
+  - Un contenu principal
+  - Des exercices pratiques (si applicable)
+  - Un QCM de validation (si applicable)
+
+## Exercices et QCM
+- Inclure des exercices pratiques pour chaque module technique
+- Ajouter des QCM pour valider les connaissances
+- Maintenir une progression de difficulté cohérente
+- Fournir des solutions détaillées
+
+n'oublie pas le sujet de formation est :
+
+Unix/Linux - Programmation Shell // 08 au 10 juin 2026
