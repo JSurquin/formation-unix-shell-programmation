@@ -23,10 +23,6 @@
     <!-- Ajout des logos en bas à gauche -->
     <div class="absolute -bottom-2 left-0 p-4 z-50 flex gap-4">
       <div style="width: 32px; height: 32px">
-        <img src="/ascent.png" alt="Logo Ascent" class="rounded-full" />
-        <!-- src="https://www.andromed.fr/andromedark.png" -->
-      </div>
-      <div style="width: 32px; height: 32px">
         <img
           src="/minarm.png"
           alt="Logo Ministère des Armées"

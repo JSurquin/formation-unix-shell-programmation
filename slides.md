@@ -14,7 +14,7 @@ themeConfig:
 
 # Unix/Linux - Programmation Shell
 
-🐧 Une formation présentée par Ascent et Andromed.
+🐧 Une formation présentée par Andromed.
 
 💚 08 - 10 Juin 2026
 
@@ -38,7 +38,6 @@ themeConfig:
 
 <div class="absolute bottom-0 right-0 z-50 flex flex-col gap-y-2 p-2">
 <div class="hover:bg-white hover:bg-opacity-10 neon-border border-2 rounded-xl w-[200px] p-2 flex flex-col gap-y-2">
-  <img src="/ascent.png" alt="Ascent" class="w-6 h-6 mx-auto rounded-full"></img>
   <span class="text-gray-400 text-xs">Programme : <b>2-024</b></span>
   <span class="text-gray-400 text-xs">Lot: <b>2</b></span>
 </div>
